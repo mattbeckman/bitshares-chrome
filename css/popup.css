@@ -1,0 +1,37 @@
+body {
+    height: 450px;
+    width: 400px;
+}
+
+.popup-container {
+    margin: 1px;
+    padding-bottom: 20px;
+    min-height: 100%;
+}
+
+img {
+    max-height: 150px;
+    max-width: 150px;
+}
+
+.image, .content {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 60%;
+}
+
+h1 {
+    text-align: left;
+    color: #fff;
+    background-color: #396085;
+    padding: 15px;
+    margin: 0px;
+	font-size: 1.25em;
+	font-family: Tahoma, Arial, sans-serif;
+    display: block;
+}
+
+.exchange-list a.btn {
+    margin: 5px;
+    display: block;
+}
